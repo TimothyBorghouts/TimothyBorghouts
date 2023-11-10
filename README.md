@@ -22,7 +22,6 @@
 ###  📈 Github statistics
 <hr>
 <img src="https://github-readme-stats.vercel.app/api?username=TimothyBorghouts&show_icons=true&include_all_commits=true&count_private=true&theme=dark"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TimothyBorghouts&theme=dark" />
 
 ### 📨 How to reach me?
 <hr>
